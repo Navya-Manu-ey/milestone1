@@ -1,4 +1,5 @@
-package com.ey.milestone;
+package milestone;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -84,3 +85,10 @@ class BookMyMovieImpl implements BookMyMovie {
     }
 }
 // Tester class
+
+
+
+		
+	
+
+
